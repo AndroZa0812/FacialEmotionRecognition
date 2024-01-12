@@ -1,0 +1,7 @@
+pandas
+seaborn
+tensorflow_recommenders
+wordcloud
+scikit-learn
+matplotlib
+tensorflow[and-cuda]
