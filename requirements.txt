@@ -1,0 +1,4 @@
+tensorflow
+pydot
+scipy
+keras_tuner
