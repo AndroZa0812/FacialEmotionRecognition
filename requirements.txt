@@ -2,3 +2,4 @@ tensorflow
 pydot
 scipy
 keras_tuner
+tensorflow-addons
